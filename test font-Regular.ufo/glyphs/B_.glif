@@ -3,5 +3,19 @@
   <advance width="600"/>
   <unicode hex="0042"/>
   <outline>
+    <contour>
+      <point x="395.515" y="33"/>
+      <point x="462" y="152.091"/>
+      <point x="462" y="299" type="curve" smooth="yes"/>
+      <point x="462" y="445.909"/>
+      <point x="395.515" y="565"/>
+      <point x="313.5" y="565" type="curve" smooth="yes"/>
+      <point x="231.485" y="565"/>
+      <point x="165" y="445.909"/>
+      <point x="165" y="299" type="curve" smooth="yes"/>
+      <point x="165" y="152.091"/>
+      <point x="231.485" y="33"/>
+      <point x="313.5" y="33" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>
