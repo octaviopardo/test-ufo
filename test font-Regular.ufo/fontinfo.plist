@@ -12,12 +12,20 @@
 	<string>2014/11/18 20:46:05</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>test font</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
