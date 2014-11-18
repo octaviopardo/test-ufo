@@ -22,6 +22,36 @@ layers = (
 {
 layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"65 238 OFFCURVE",
+"102 706 OFFCURVE",
+"103 703 CURVE",
+"425 701 LINE",
+"483 16 LINE",
+"330 16 LINE",
+"265 410 LINE",
+"219 408 LINE",
+"158 18 LINE",
+"46 5 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 564 OFFCURVE",
+"159 492 OFFCURVE",
+"160 490 CURVE",
+"161 488 OFFCURVE",
+"349 502 OFFCURVE",
+"349 510 CURVE SMOOTH",
+"328 641 LINE",
+"218 601 LINE"
+);
+}
+);
 width = 600;
 }
 );
