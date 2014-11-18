@@ -1,0 +1,700 @@
+{
+DisplayStrings = (
+I,
+HI
+);
+date = "2014-11-18 19:46:05 +0000";
+familyName = "test font";
+fontMaster = (
+{
+ascender = 800;
+capHeight = 700;
+descender = "-200";
+id = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+xHeight = 500;
+}
+);
+glyphs = (
+{
+glyphname = A;
+lastChange = "2014-11-18 19:46:05 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0041;
+},
+{
+glyphname = B;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0042;
+},
+{
+glyphname = C;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0043;
+},
+{
+glyphname = D;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0044;
+},
+{
+glyphname = E;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0045;
+},
+{
+glyphname = F;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0046;
+},
+{
+glyphname = G;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0047;
+},
+{
+glyphname = H;
+lastChange = "2014-11-18 19:47:13 +0100";
+layers = (
+{
+components = (
+{
+disableAlignment = 1;
+name = I;
+transform = "{1, 0, 0, 1, 243, 0}";
+},
+{
+disableAlignment = 1;
+name = I;
+transform = "{1, 0, 0, 1, -103, 0}";
+}
+);
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"427.397 308 OFFCURVE",
+"510 331.057 OFFCURVE",
+"510 359.5 CURVE SMOOTH",
+"510 387.943 OFFCURVE",
+"427.397 411 OFFCURVE",
+"325.5 411 CURVE SMOOTH",
+"223.602 411 OFFCURVE",
+"141 387.943 OFFCURVE",
+"141 359.5 CURVE SMOOTH",
+"141 331.057 OFFCURVE",
+"223.602 308 OFFCURVE",
+"325.5 308 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0048;
+},
+{
+glyphname = I;
+lastChange = "2014-11-18 19:46:35 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"180 0 LINE",
+"309 0 LINE",
+"309 728 LINE",
+"180 728 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0049;
+},
+{
+glyphname = J;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004A;
+},
+{
+glyphname = K;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004B;
+},
+{
+glyphname = L;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004C;
+},
+{
+glyphname = M;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004D;
+},
+{
+glyphname = N;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004E;
+},
+{
+glyphname = O;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 004F;
+},
+{
+glyphname = P;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0050;
+},
+{
+glyphname = Q;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0051;
+},
+{
+glyphname = R;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0052;
+},
+{
+glyphname = S;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0053;
+},
+{
+glyphname = T;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0054;
+},
+{
+glyphname = U;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0055;
+},
+{
+glyphname = V;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0056;
+},
+{
+glyphname = W;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0057;
+},
+{
+glyphname = X;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0058;
+},
+{
+glyphname = Y;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0059;
+},
+{
+glyphname = Z;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 005A;
+},
+{
+glyphname = a;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0061;
+},
+{
+glyphname = b;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0062;
+},
+{
+glyphname = c;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0063;
+},
+{
+glyphname = d;
+lastChange = "2014-11-18 19:46:06 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0064;
+},
+{
+glyphname = e;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0065;
+},
+{
+glyphname = f;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0066;
+},
+{
+glyphname = g;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0067;
+},
+{
+glyphname = h;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0068;
+},
+{
+glyphname = i;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0069;
+},
+{
+glyphname = j;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006A;
+},
+{
+glyphname = k;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006B;
+},
+{
+glyphname = l;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006C;
+},
+{
+glyphname = m;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006D;
+},
+{
+glyphname = n;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006E;
+},
+{
+glyphname = o;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 006F;
+},
+{
+glyphname = p;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0070;
+},
+{
+glyphname = q;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0071;
+},
+{
+glyphname = r;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0072;
+},
+{
+glyphname = s;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0073;
+},
+{
+glyphname = t;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0074;
+},
+{
+glyphname = u;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0075;
+},
+{
+glyphname = v;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0076;
+},
+{
+glyphname = w;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0077;
+},
+{
+glyphname = x;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0078;
+},
+{
+glyphname = y;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0079;
+},
+{
+glyphname = z;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 007A;
+},
+{
+glyphname = space;
+lastChange = "2014-11-18 19:46:30 +0100";
+layers = (
+{
+layerId = "4E6C2921-FCFD-4214-9391-0342EA27584C";
+name = Regular;
+width = 600;
+}
+);
+unicode = 0020;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
